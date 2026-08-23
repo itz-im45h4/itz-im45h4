@@ -3,10 +3,10 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=B39868&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
-    alt="Hey =)"
+    alt="HAY! I'M IMASHA"
   />
   <br />
-  <sub>a small digital scrapbook — code, systems & quiet experiments</sub>
+  <sub>Building toward software engineering and DevOps practices -full-stack development with deployment automation</sub>
   <br /><br />
 
   <a href="https://www.instagram.com/im45h4/?hl=en">
@@ -21,9 +21,9 @@
   <br />
 
 <div align="center">
-  currently on the pinboard<br />
+  currently working on<br />
   <code>containers</code> <code>backend</code> <code>automation</code> <code>small ideas with big tabs open</code><br />
-  building slowly. keeping the good bits.
+  building slowly. Occasionally breaking stuff
 </div>
 
 <br />

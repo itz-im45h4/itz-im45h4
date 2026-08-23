@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./fullress.gif" width="520" alt="Animated abstract mark" />
+<img src="./assets/yoru%20csm.gif" width="480" alt="Yoru animated artwork" />
 
 # imasha randula
 
-<sub>digital notes · small systems · quiet experiments</sub>
+<sub>a quiet corner for digital notes &amp; small experiments</sub>
 
 <br /><br />
 

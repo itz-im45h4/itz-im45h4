@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=1e1b19&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=2563eb&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
     alt="Hey =)"
   />
   <br />

@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=38&duration=2200&pause=1500&color=8C7365&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=2563eb&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
     alt="Hey =)"
   />
   <br />
@@ -10,24 +10,22 @@
   <br /><br />
 
   <a href="https://github.com/itz-im45h4">
-    <img src="https://img.shields.io/badge/github-f8f5f0?style=flat&logo=github&logoColor=1e1b19" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github-1e1b19?style=flat-square&logo=github&logoColor=f8f5f0" alt="GitHub" />
   </a>
-  &nbsp; &nbsp; &nbsp;
   <a href="https://linkedin.com/in/im45h4">
-    <img src="https://img.shields.io/badge/linkedin-f8f5f0?style=flat&logo=linkedin&logoColor=b39868" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-b39868?style=flat-square&logo=linkedin&logoColor=f8f5f0" alt="LinkedIn" />
   </a>
-  &nbsp; &nbsp; &nbsp;
   <a href="mailto:imasherrandula@gmail.com">
-    <img src="https://img.shields.io/badge/email-f8f5f0?style=flat&logo=gmail&logoColor=c9a980" alt="Email" />
+    <img src="https://img.shields.io/badge/say_hello-c9a980?style=flat-square&logo=gmail&logoColor=1e1b19" alt="Email" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <i>currently on the pinboard</i><br />
-  <code>containers</code> &nbsp; <code>backend</code> &nbsp; <code>automation</code> &nbsp; <code>small ideas</code><br /><br />
-  <sub>building slowly. keeping the good bits.</sub>
+  currently on the pinboard<br />
+  <code>containers</code> <code>backend</code> <code>automation</code> <code>small ideas with big tabs open</code><br />
+  building slowly. keeping the good bits.
 </div>
 
 <br />
@@ -41,41 +39,47 @@
 
 <br />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=20&duration=1&color=c9a980&center=true&vCenter=true&width=300&lines=✧･ﾟ%3A+*✧･ﾟ%3A+*+statistics+*+%3A･ﾟ✧*%3A･ﾟ✧" />
-</p>
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-im45h4&theme=default"
+    alt="GitHub profile details"
+  />
+</div>
 
 <div align="center">
   <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=f8f5f0&title_color=8C7365&text_color=3a3532&icon_color=b39868&border_radius=15&hide=issues,contribs"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-im45h4&theme=default"
+    alt="Repositories per language"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-im45h4&theme=default"
+    alt="Most commit language"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-im45h4&theme=default"
     alt="GitHub stats"
   />
   <img
-    width="350"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=donut&hide_border=true&bg_color=f8f5f0&title_color=8C7365&text_color=3a3532&border_radius=15&hide=jupyter%20notebook,html,css"
-    alt="Top languages"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itz-im45h4&theme=default&utcOffset=5.5"
+    alt="Contribution activity"
   />
 </div>
 
 <br />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=20&duration=1&color=c9a980&center=true&vCenter=true&width=300&lines=✧･ﾟ%3A+*✧･ﾟ%3A+*+little+archive+*+%3A･ﾟ✧*%3A･ﾟ✧" />
-</p>
-
 <div align="center">
-  <sub>
-    ◌ ideas worth saving<br />
-    ✦ systems worth understanding<br />
-    ⟡ work in progress, always
-  </sub>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&color=c9a980&style=flat-square&label=profile+views" alt="Profile views" />
+  little archive<br />
+  ◌ ideas worth saving<br />
+  ✦ systems worth understanding<br />
+  ⟡ work in progress, always
 </div>
 
 <br />

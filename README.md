@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<img src="./assets/yoru-polaroid.gif" width="1000" alt="Yoru animated artwork in a Polaroid frame" />
+<img src="./assets/yoru-polaroid.gif" width="100%" alt="Yoru animated artwork in a Polaroid frame" />
 </td>
 </tr>
 </table>

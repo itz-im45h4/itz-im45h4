@@ -9,8 +9,8 @@
   <sub>a small digital scrapbook — code, systems & quiet experiments</sub>
   <br /><br />
 
-  <a href="https://github.com/itz-im45h4">
-    <img src="https://img.shields.io/badge/GitHub-1E1B19?style=for-the-badge&logo=github&logoColor=F8F5F0" alt="GitHub profile" />
+  <a href="https://www.instagram.com/im45h4/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=F8F5F0" alt="Instagram profile" />
   </a>
   <a href="https://linkedin.com/in/im45h4">
     <img src="https://img.shields.io/badge/LinkedIn-B39868?style=for-the-badge&logo=linkedin&logoColor=F8F5F0" alt="LinkedIn profile" />
@@ -18,11 +18,7 @@
   <a href="mailto:imasherrandula@gmail.com">
     <img src="https://img.shields.io/badge/Say%20hello-C9A980?style=for-the-badge&logo=gmail&logoColor=1E1B19" alt="Email Imasha" />
   </a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=SCRAPBOOK%20VISITORS&color=b39868&style=flat-square" alt="Profile views" />
-</div>
-
-<br />
+  <br />
 
 <div align="center">
   currently on the pinboard<br />
@@ -44,8 +40,8 @@
 <div align="center">
   <img
     width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=8c7365&area=true&area_color=e9e4db&hide_border=true&radius=12"
-    alt="GitHub contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=8c7365&area=true&area_color=e9e4db&hide_border=true&radius=12&custom_title=Imasha%27s%20contribution%20garden"
+    alt="Imasha's GitHub contribution graph"
   />
 </div>
 
@@ -57,8 +53,8 @@
   />
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-im45h4&theme=solarized"
-    alt="Repositories by programming language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-im45h4&theme=solarized"
+    alt="Most-committed programming languages"
   />
 </div>
 
@@ -70,17 +66,9 @@
   />
 </div>
 
-<br />
 
-<div align="center">
-  little archive<br />
-  ◌ ideas worth saving<br />
-  ✦ systems worth understanding<br />
-  ⟡ work in progress, always
+<br />
+  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=SCRAPBOOK%20VISITORS&color=b39868&style=flat-square" alt="Profile views" />
 </div>
 
 <br />
-
-<div align="center">
-  <sub>made slowly, with intention.</sub>
-</div>

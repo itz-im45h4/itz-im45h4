@@ -1,96 +1,50 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif" width="245" alt="A looping pixel-art signal" />
+<img src="./fullress.gif" width="520" alt="Animated abstract mark" />
 
-# IMASHA RANDULA
+# imasha randula
 
-`signal received · somewhere between logic & chaos`
-
-<a href="https://github.com/itz-im45h4"><img src="https://img.shields.io/badge/GitHub-0d0b17?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/im45h4"><img src="https://img.shields.io/badge/LinkedIn-0d0b17?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-<a href="mailto:imasherrandula@gmail.com"><img src="https://img.shields.io/badge/Transmit_a_message-0d0b17?style=for-the-badge&logo=gmail&logoColor=f9a8d4" alt="Email" /></a>
-
-</div>
-
-<br />
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-## 01 / the signal
-
-I make things for the quiet side of the internet — software, systems, and the occasional experiment that starts with a question mark.
-
-Most days are spent following threads through backend code, containers, automation, and whatever refuses to behave until it does.
-
-> *leave it a little stranger than you found it.*
-
-</td>
-<td width="44%" valign="top" align="center">
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=5&theme=dark" alt="Tools I use" />
+<sub>digital notes · small systems · quiet experiments</sub>
 
 <br /><br />
 
-`software` · `infra` · `backend` · `linux`
+<a href="https://github.com/itz-im45h4"><img src="https://img.shields.io/badge/github-1e1b19?style=flat-square&logo=github&logoColor=f8f5f0" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/im45h4"><img src="https://img.shields.io/badge/linkedin-b39868?style=flat-square&logo=linkedin&logoColor=f8f5f0" alt="LinkedIn" /></a>
+<a href="mailto:imasherrandula@gmail.com"><img src="https://img.shields.io/badge/contact-c9a980?style=flat-square&logo=gmail&logoColor=1e1b19" alt="Email" /></a>
 
-</td>
-</tr>
-</table>
-
----
-
-## 02 / things in motion
-
-```text
-status       : exploring the unknown
-currently    : containers · CI/CD · deployment systems
-operating on : curiosity, coffee, and controlled chaos
-```
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=0d0b17&title_color=c4b5fd&text_color=e9e7ff&icon_color=7dd3fc&ring_color=f9a8d4" alt="Imasha's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=0d0b17&title_color=c4b5fd&text_color=e9e7ff" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=0D0B17&ring=F9A8D4&fire=F9A8D4&currStreakNum=E9E7FF&sideNums=E9E7FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=958EAE" alt="GitHub contribution streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=0d0b17&color=e9e7ff&line=c4b5fd&point=f9a8d4&area=true&area_color=312e81&hide_border=true" alt="GitHub activity graph" />
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=10&theme=light" alt="Tools and technologies" />
+
 </div>
 
----
-
-## 03 / notes from the void
+<br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### ⟡ collecting
+### ◌ make
 
-Patterns in systems, useful tools, and small ideas worth turning into something real.
-
-</td>
-<td width="33%" valign="top">
-
-### ◌ making
-
-Experiments with code, deployment, and the invisible machinery behind an application.
+software & systems
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center">
 
-### ✦ following
+### ✦ collect
 
-The next interesting problem — especially the one that looks slightly impossible.
+ideas & patterns
+
+</td>
+<td width="33%" align="center">
+
+### ⟡ wander
+
+into the unknown
 
 </td>
 </tr>
@@ -100,10 +54,27 @@ The next interesting problem — especially the one that looks slightly impossib
 
 <div align="center">
 
-`end of transmission — for now.`
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532&icon_color=b39868&ring_color=c9a980" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532" alt="Most used languages" />
 
-<br /><br />
+<br />
 
-<a href="https://github.com/itz-im45h4">enter the archive →</a>
+<img src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=F8F5F0&ring=B39868&fire=C9A980&currStreakNum=1E1B19&sideNums=3A3532&currStreakLabel=8C7365&sideLabels=8C7365&dates=8C7365" alt="Contribution streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=1e1b19&area=true&area_color=e9e4db&hide_border=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>made slowly, with intention.</sub>
 
 </div>

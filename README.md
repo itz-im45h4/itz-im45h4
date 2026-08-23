@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=B39868&center=true&vCenter=true&width=600&repeat=false&lines=HAY! I'M IMASHA"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=B39868&center=true&vCenter=true&width=600&repeat=false&lines=HAY%21+I%27M+IMASHA"
     alt="HAY! I'M IMASHA"
   />
   <br />

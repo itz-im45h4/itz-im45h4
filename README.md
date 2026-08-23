@@ -68,7 +68,7 @@
 
 
 <br />
-  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=SCRAPBOOK%20VISITORS&color=b39868&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=VISITORS&color=b39868&style=flat-square" alt="Profile views" />
 </div>
 
 <br />

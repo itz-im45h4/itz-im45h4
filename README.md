@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=B39868&center=true&vCenter=true&width=600&repeat=false&lines=Hey+%3D%29"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2200&pause=1500&color=B39868&center=true&vCenter=true&width=600&repeat=false&lines=HAY! I'M IMASHA"
     alt="HAY! I'M IMASHA"
   />
   <br />
@@ -68,7 +68,7 @@
 
 
 <br />
-  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=VISITORS&color=b39868&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=VISITORS&color=b39868&style=flat-square" alt="Ghost count" />
 </div>
 
 <br />

@@ -20,9 +20,9 @@
 
 </div>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td width="54%" valign="top">
+<td width="54%" valign="top" style="border:none;">
 
 ### currently on the pinboard
 
@@ -33,7 +33,7 @@
 > building slowly. keeping the good bits.
 
 </td>
-<td width="46%" align="center" valign="middle">
+<td width="46%" align="center" valign="middle" style="border:none;">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=5&theme=light" alt="Tools and technologies" />
 
@@ -43,29 +43,29 @@
 
 <br />
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td width="55%" align="center" valign="top">
+<td width="55%" align="center" valign="top" style="border:none;">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532&icon_color=b39868&ring_color=c9a980" alt="GitHub statistics" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532&icon_color=b39868&ring_color=c9a980" style="display:block; border:none;" alt="GitHub statistics" />
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center" valign="top" style="border:none;">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532" alt="Most used languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532" style="display:block; border:none;" alt="Most used languages" />
 
 </td>
 </tr>
 </table>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border:none;">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=F8F5F0&ring=B39868&fire=C9A980&currStreakNum=1E1B19&sideNums=3A3532&currStreakLabel=8C7365&sideLabels=8C7365&dates=8C7365" alt="Contribution streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=F8F5F0&ring=B39868&fire=C9A980&currStreakNum=1E1B19&sideNums=3A3532&currStreakLabel=8C7365&sideLabels=8C7365&dates=8C7365" style="display:block; border:none;" alt="Contribution streak" />
 
 </td>
-<td width="60%" valign="middle">
+<td width="60%" valign="middle" style="border:none;">
 
 ### little archive
 
@@ -79,11 +79,11 @@
 
 <br />
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td align="center">
+<td align="center" style="border:none;">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=1e1b19&area=true&area_color=e9e4db&hide_border=true" alt="GitHub activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=1e1b19&area=true&area_color=e9e4db&hide_border=true" style="display:block; border:none;" alt="GitHub activity graph" />
 
 </td>
 </tr>

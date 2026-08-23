@@ -1,46 +1,41 @@
 <div align="center">
 
-# HAY! I'M IMASHA ✶
+<img src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif" width="245" alt="A looping pixel-art signal" />
 
-### IT Student · Software Engineering · DevOps
+# IMASHA RANDULA
 
-*Building things, breaking things, and learning how to ship them properly.*
+`signal received · somewhere between logic & chaos`
 
-[![GitHub](https://img.shields.io/badge/GitHub-itz--im45h4-1e1b19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itz-im45h4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-im45h4-8c7365?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im45h4)
-[![Email](https://img.shields.io/badge/Email-imasherrandula%40gmail.com-b39868?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imasherrandula@gmail.com)
+<a href="https://github.com/itz-im45h4"><img src="https://img.shields.io/badge/GitHub-0d0b17?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/im45h4"><img src="https://img.shields.io/badge/LinkedIn-0d0b17?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
+<a href="mailto:imasherrandula@gmail.com"><img src="https://img.shields.io/badge/Transmit_a_message-0d0b17?style=for-the-badge&logo=gmail&logoColor=f9a8d4" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-## ✦ About Me
+## 01 / the signal
 
-I'm **Imasha Randula**, an IT student at **Sri Lanka Institute of Information Technology (SLIIT)** learning software development and DevOps practices.
+I make things for the quiet side of the internet — software, systems, and the occasional experiment that starts with a question mark.
 
-I'm especially interested in the part of software development that happens **after the code is written** — containers, deployment, CI/CD, infrastructure, reliability, and understanding the complete application lifecycle.
+Most days are spent following threads through backend code, containers, automation, and whatever refuses to behave until it does.
 
-I learn mostly by **building and experimenting**: make something, deploy it, break it, fix it, and figure out why it works.
-
-> **I CODE & BREAK**
+> *leave it a little stranger than you found it.*
 
 </td>
+<td width="44%" valign="top" align="center">
 
-<td width="42%" valign="top">
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=5" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=5&theme=dark" alt="Tools I use" />
 
-<p align="center">
+<br /><br />
 
-`software` · `devops` · `backend` · `linux`
-
-</p>
+`software` · `infra` · `backend` · `linux`
 
 </td>
 </tr>
@@ -48,147 +43,54 @@ I learn mostly by **building and experimenting**: make something, deploy it, bre
 
 ---
 
-## ✦ My Stack
+## 02 / things in motion
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Development
-
-`Java`  
-`Python`  
-`Flutter`  
-`REST APIs`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Infrastructure
-
-`Linux`  
-`Docker`  
-`CI/CD`  
-`Automation`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Data & Tools
-
-`MySQL`  
-`MongoDB`  
-`Git`  
-`GitHub`
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Recent Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Prediction
-
-A weather prediction project combining a web interface with a Python/ML-oriented backend.
-
-**Focus**
-
-`Python` · `ML` · `Web`
-
-[↗ Repository](https://github.com/itz-im45h4/homagama-weather-backend)  
-[↗ Live Frontend](https://itz-im45h4.github.io/homagama-weather-frontend/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚆 Train Reservation System
-
-A web-based reservation project built around Java and MySQL.
-
-**Focus**
-
-`Java` · `MySQL` · `Web`
-
-[↗ Repository](https://github.com/ThevinduDha/Train-Reservation-Website)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💇 Appointment Booking System
-
-A Java-based booking system project.
-
-**Focus**
-
-`Java` · `Web`
-
-[↗ Repository](https://github.com/IT24201195/Beauty-Salon-Appointment-Booking-System)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ What's Next
-
-I'm continuing to build toward:
-
-`DevOps` · `Cloud` · `Kubernetes` · `CI/CD`
-
-and stronger full-stack deployment skills.
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ GitHub Activity
+```text
+status       : exploring the unknown
+currently    : containers · CI/CD · deployment systems
+operating on : curiosity, coffee, and controlled chaos
+```
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=0d0b17&title_color=c4b5fd&text_color=e9e7ff&icon_color=7dd3fc&ring_color=f9a8d4" alt="Imasha's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=0d0b17&title_color=c4b5fd&text_color=e9e7ff" alt="Most used languages" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itz-im45h4&show_icons=true&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532&icon_color=b39868" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=0D0B17&ring=F9A8D4&fire=F9A8D4&currStreakNum=E9E7FF&sideNums=E9E7FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=958EAE" alt="GitHub contribution streak" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-im45h4&layout=compact&hide_border=true&bg_color=f8f5f0&title_color=1e1b19&text_color=3a3532" />
+<br />
 
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=0d0b17&color=e9e7ff&line=c4b5fd&point=f9a8d4&area=true&area_color=312e81&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 ---
 
-## ✦ A Little More
+## 03 / notes from the void
 
 <table>
 <tr>
-<td valign="top">
+<td width="33%" valign="top">
 
-**Currently learning**
+### ⟡ collecting
 
-Docker · CI/CD · deployment automation · backend systems · Linux
-
-</td>
-<td valign="top">
-
-**Approach**
-
-Hands-on experimentation > watching tutorials
+Patterns in systems, useful tools, and small ideas worth turning into something real.
 
 </td>
-<td valign="top">
+<td width="33%" valign="top">
 
-**Goal**
+### ◌ making
 
-Build reliable software and understand how it actually runs.
+Experiments with code, deployment, and the invisible machinery behind an application.
+
+</td>
+<td width="33%" valign="top">
+
+### ✦ following
+
+The next interesting problem — especially the one that looks slightly impossible.
 
 </td>
 </tr>
@@ -198,8 +100,10 @@ Build reliable software and understand how it actually runs.
 
 <div align="center">
 
-### ✶ KEEP BUILDING. KEEP BREAKING. KEEP LEARNING.
+`end of transmission — for now.`
 
-[**Explore my repositories →**](https://github.com/itz-im45h4)
+<br /><br />
+
+<a href="https://github.com/itz-im45h4">enter the archive →</a>
 
 </div>

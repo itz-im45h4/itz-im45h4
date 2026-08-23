@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/yoru%20csm.gif" width="480" alt="Yoru animated artwork" />
+<table>
+<tr>
+<td align="center">
+<img src="./assets/yoru%20csm.gif" width="100%" alt="Yoru animated artwork" />
+</td>
+</tr>
+</table>
 
 # imasha randula
 

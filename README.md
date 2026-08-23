@@ -41,7 +41,7 @@
   <img
     width="96%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=itz-im45h4&bg_color=f8f5f0&color=3a3532&line=b39868&point=8c7365&area=true&area_color=e9e4db&hide_border=true&radius=12&custom_title=Things%20I%27ve%20been%20shipping%20%E2%9C%A6"
-    alt="Things Imasha has been shipping on GitHub"
+    alt="Things Imasha has been doing on GitHub"
   />
 </div>
 

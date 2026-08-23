@@ -40,17 +40,37 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="./assets/profile-summary/0-profile-details.svg" alt="GitHub profile details" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itz-im45h4&theme=default"
+    alt="GitHub profile details"
+  />
 </div>
 
 <div align="center">
-  <img width="48%" src="./assets/profile-summary/1-repos-per-language.svg" alt="Repositories per language" />
-  <img width="48%" src="./assets/profile-summary/2-most-commit-language.svg" alt="Most commit language" />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-im45h4&theme=default"
+    alt="Repositories per language"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-im45h4&theme=default"
+    alt="Most commit language"
+  />
 </div>
 
 <div align="center">
-  <img width="48%" src="./assets/profile-summary/3-stats.svg" alt="GitHub stats" />
-  <img width="48%" src="./assets/profile-summary/4-productive-time.svg" alt="Contribution activity" />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-im45h4&theme=default"
+    alt="GitHub stats"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itz-im45h4&theme=default&utcOffset=5.5"
+    alt="Contribution activity"
+  />
 </div>
 
 <br />

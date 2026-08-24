@@ -57,12 +57,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-im45h4&theme=solarized"
     alt="GitHub statistics"
   />
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-im45h4&theme=solarized"
-    alt="Most-committed programming languages"
-  />
-</div>
+ 
 
 <!-- Contribution streak: shows consecutive days of GitHub contributions. -->
 <div align="center">

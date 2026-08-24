@@ -59,14 +59,6 @@
   />
  
 
-<!-- Contribution streak: shows consecutive days of GitHub contributions. -->
-<div align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=itz-im45h4&hide_border=true&background=F8F5F0&ring=B39868&fire=C9A980&currStreakLabel=1E1B19&sideLabels=3A3532&currStreakNum=1E1B19&sideNums=3A3532&dates=8C7365&border_radius=12"
-    alt="GitHub contribution streak"
-  />
-</div>
 
 
 <br />

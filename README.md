@@ -49,21 +49,3 @@
     alt="Things Imasha has been doing on GitHub"
   />
 </div>
-
-<!-- GitHub summary cards: displays account statistics and most-used commit languages. -->
-<div align="center">
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-im45h4&theme=solarized"
-    alt="GitHub statistics"
-  />
- 
-
-
-
-<br />
-  <!-- Profile visitor counter. -->
-  <img src="https://komarev.com/ghpvc/?username=itz-im45h4&label=VISITORS&color=b39868&style=flat-square" alt="Ghost count" />
-</div>
-
-<br />

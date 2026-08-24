@@ -1,5 +1,4 @@
-<!-- Full-width animated banner that sets the visual tone of the profile. -->
-<img src="./assets/yoru-polaroid.gif" width="100%" alt="Yoru animated artwork in a Polaroid frame" />
+
 
 <!-- Centered introduction: animated greeting, short professional focus, and contact links. -->
 <div align="center">
@@ -49,3 +48,5 @@
     alt="Things Imasha has been doing on GitHub"
   />
 </div>
+<!-- Full-width animated banner that sets the visual tone of the profile. -->
+<img src="./assets/yoru-polaroid.gif" width="100%" alt="Yoru animated artwork in a Polaroid frame" />

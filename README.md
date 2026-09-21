@@ -25,7 +25,7 @@
 <div align="center">
   currently working on<br />
   <code>containers</code> <code>backend</code> <code>automation</code> <code>small ideas with big tabs open</code><br />
-  building slowly. Occasionally breaking some stuff ૮ ˶ᵔ ᵕ ᵔ˶ ა
+  building & breaking stuff is what i do ૮ ˶ᵔ ᵕ ᵔ˶ ა
 </div>
 
 <br />

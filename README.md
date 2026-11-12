@@ -7,7 +7,7 @@
     alt="Hay! I'm Imasha"
   />
   <br />
-  <sub>Building toward software engineering and DevOps practices -full-stack development with deployment automation</sub>
+  <sub>Engineering the infrastructure behind modern applications. Focused on Linux, Cloud Architecture, and CI/CD Automation.</sub>
   <br /><br />
 
   <a href="https://www.instagram.com/im45h4/?hl=en">

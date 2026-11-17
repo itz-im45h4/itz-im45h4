@@ -29,11 +29,10 @@
 </div>
 
 <br />
-
 <!-- Technology stack: skill icons for the tools and languages used most often. -->
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,bash,git,github,python,java,nodejs,react,mysql&perline=6&theme=light"
+    src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,githubactions,aws,cloudflare,git,github,java,spring,python,nodejs,react,mysql,mongodb&perline=8&theme=light"
     alt="Tools and technologies"
   />
 </div>

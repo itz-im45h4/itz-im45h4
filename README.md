@@ -33,7 +33,7 @@
 <!-- Technology stack: skill icons for the tools and languages used most often. -->
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,java,python,flutter,mysql,mongodb&perline=5&theme=light"
+    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,bash,git,github,python,java,nodejs,react,mysql&perline=6&theme=light"
     alt="Tools and technologies"
   />
 </div>

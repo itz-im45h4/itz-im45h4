@@ -40,5 +40,5 @@
 
 <br />
 
-<!-- Full-width animated banner that sets the visual tone of the profile. -->
-<img src="./assets/yoru-polaroid.gif" width="100%" alt="Yoru animated artwork in a Polaroid frame" />
+<!-- Full-width animated banner that sets the visual tone of the profile. 
+<img src="./assets/yoru-polaroid.gif" width="100%" alt="Yoru animated artwork in a Polaroid frame" />   -->
